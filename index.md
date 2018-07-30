@@ -1,5 +1,5 @@
 # The general GitHub page for Matthew Merris
-Repository for future/present/past greatness.
+Repository for **future**/present/*past* greatness.
 More content coming. In the interim, enjoy the default GitHub content.
 
 ## Welcome to GitHub Pages
