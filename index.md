@@ -1,6 +1,6 @@
 # The general GitHub page for Matthew Merris
 Repository for **future**/present/*past* greatness.
-More content coming. In the interim, enjoy the default GitHub content.
+More content coming. In the interim, enjoy the default [GitHub](http://github.com) content.
 
 ## Welcome to GitHub Pages
 
